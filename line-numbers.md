@@ -6,7 +6,7 @@
 #### 6
 #### 7 cd into the repo!
 #### 8
-#### 9
+#### 9 GitHub is awesome.
 #### 10
 #### 11
 #### 12
